@@ -1,0 +1,28 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <option name="valueLookupDelay" value="150" />
+    </data-views>
+    <general>
+      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
+    </general>
+    <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="allowTypingDuringDebug" value="true" />
+          <option name="enableExternalSourceDebug" value="false" />
+          <option name="needNotifyWhenStoppedInExternalCode" value="false" />
+          <option name="remappedSourceLocationsMap">
+            <map />
+          </option>
+        </configuration>
+      </debugger>
+      <debugger id="javascript">
+        <configuration doNotStepIntoLibraryCode="false">
+          <custom-object-presentation />
+          <stepping-filters-enabled>false</stepping-filters-enabled>
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

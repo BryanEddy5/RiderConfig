@@ -10,10 +10,15 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
-    <entry key="ide.mac.file.chooser.native" value="false" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="debugger.click.disable.breakpoints" value="true" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
+    <entry key="parameter.info.max.visible.rows" value="10" />
+    <entry key="rider.edit.and.continue" value="true" />
+    <entry key="java.completion.argument.hints.internal" value="false" />
+    <entry key="ide.win.file.chooser.native" value="true" />
+    <entry key="ide.win.frame.decoration" value="true" />
+    <entry key="ide.balloon.shadow.size" value="0" />
   </component>
 </application>

@@ -1,0 +1,60 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.46436524" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="FindSplitterProportion" value="0.25236" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="RiderUnitTestGroupingRules.File" value="1" />
+    <property name="SearchEveryWhereHistory" value="LogEntry&#10;_getDateFromField&#10;_dopress&#10;Globalize.format&#10;validateDate" />
+    <property name="SettingsSearchHistory" value="toolset&#10;wra&#10;wrap&#10;blame&#10;debugger" />
+    <property name="XDebuggerExpressionEditor_Use_Soft_Wraps" value="true" />
+    <property name="assembly_explorer_last_open_folder" value="C:/Development/Branches/111/3rdPartyLib/Microsoft.CodeAnalysis" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="63" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.splitter" value="0.3858751" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="evlsprt3.183" value="19" />
+    <property name="favorites.view.settings.abbreviate.qualified.package.names" value="false" />
+    <property name="favorites.view.settings.autoscroll.from.source" value="false" />
+    <property name="favorites.view.settings.autoscroll.to.source" value="false" />
+    <property name="favorites.view.settings.flatten.packages" value="false" />
+    <property name="favorites.view.settings.hide.empty.middle.packages" value="true" />
+    <property name="favorites.view.settings.show.members" value="true" />
+    <property name="file.chooser.recent.files" value="C:/Development/Trunk/Hansen8/InetPub/WWWRoot/NextGen/Core/DefinitionManagerApplet/DefinitionManagerApplet.csproj&#10;C:/Development/Branches/111/Hansen8/InetPub/WWWRoot/NextGen/CDR/BuildingApplicationInspectionApplet/BuildingApplicationInspectionApplet.csproj&#10;C:/Development/Branches/111/Hansen8/NextGen/Core/Core/Core.sln&#10;C:/Development/Trunk/3rdPartyLib/Microsoft.CodeAnalysis/System.Reflection.Metadata.dll&#10;C:/Development/Branches/111/3rdPartyLib/Microsoft.CodeAnalysis&#10;C:/Development/Branches/111/3rdPartyLib/Microsoft.CodeDom.Providers.DotNetCompilerPlatform&#10;C:/Development/Branches/111/3rdPartyLib/Microsoft.CodeAnalysis/Microsoft.CodeAnalysis.dll&#10;C:/Development/Branches/111/3rdPartyLib/Microsoft.CodeAnalysis/System.Collections.Immutable.dll&#10;C:/Development/Trunk/Hansen8/NextGen/Core/CoreObjects&#10;C:/Development/Branches/111/Hansen8/InetPub/WWWRoot/NextGen/CRM/CallCentreApplet/CallCentreApplet.csproj&#10;C:/Development/Branches/111/Hansen8/NextGen/WorkManagement/WorkManagement/WorkManagement.csproj&#10;C:/Development/Branches/111/Hansen8/NextGen/CDR/BuildingApplication/BuildingApplication.csproj&#10;C:/Development/Branches/111/Hansen8/InetPub/WWWRoot/NextGen/AssetManagement/AgencyDefined/Asset/AgencyAssetManagementApplet.csproj&#10;C:/Development/Trunk/UnitTests/NextGen/CDR/BuildingApplication/BuildingApplicationTests/BuildingApplicationTests.sln&#10;C:/Development/Branches/111/Hansen8/InetPub/WWWRoot/NextGen/AssetManagement/AssetManagementApplet/AssetManagementApplet.csproj&#10;C:/Development/Branches/111/Hansen8/InetPub/WWWRoot/NextGen/AssetManagement/Roadway/RoadwayManagementApplet.csproj&#10;C:/Development/Branches/111/Hansen8/InetPub/WWWRoot/NextGen/Core/Search/Search.csproj&#10;C:/Development/Branches/111/CommonFiles/Infor.Security/Cryptography/Cryptography.csproj&#10;C:/Development/Branches/111/Hansen8/InetPub/WWWRoot/NextGen/Admin/ContentManager/ContentManager.csproj&#10;C:/Development/Branches/111/Hansen8/InetPub/WWWRoot/NextGen/Admin/Admin.csproj&#10;C:/Development/Branches/111/Hansen8/NextGen/Core/ServerControls/ServerControls.csproj&#10;C:/Development/Branches/111/3rdPartyLib/Microsoft.CodeAnalysis/System.Reflection.Metadata.dll&#10;C:/Development/Branches/111/3rdPartyLib/Microsoft.CodeDom.Providers.DotNetCompilerPlatform/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll&#10;C:/Development/Trunk/3rdPartyLib/Microsoft.CodeDom.Providers.DotNetCompilerPlatform/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll&#10;C:/Development/Branches/111/Hansen8/NextGen/CDR/UseApplication/UseApplication.csproj&#10;C:/Development/Branches/111/Hansen8/NextGen/Billing/Billing/Billing.csproj&#10;C:/Development/Branches/111/Hansen8/InetPub/WWWRoot/NextGen/EventMaintenance/HandleEventApplet/HandleEventApplet.csproj&#10;C:/Development/Branches/111/Hansen8/NextGen/Core/Core/Core.csproj&#10;C:/Development/Branches/111/Hansen8/InetPub/WWWRoot/NextGen/Components/bin/Core.dll&#10;C:/Development/Trunk/Hansen8/InetPub/WWWRoot/NextGen/Admin/Admin.csproj" />
+    <property name="file.gist.reindex.count" value="56099" />
+    <property name="fileTypeChangedCounter" value="17" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="C:/Development/Branches/111/Hansen8/NextGen/Core/Core" />
+    <property name="last_selected_template" value="Console Application|.NET Core" />
+    <property name="last_selected_template_parameters" value="Type=Class Library;Language=C#;Framework=netcoreapp2.1;" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+    <property name="selected.color.option.type" value="RIGHT_MARGIN_COLOR" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
+    <property name="show.vcs.annotation.aspect.Revision" value="false" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.splitter.proportion" value="0.57195574" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://ipsscm/svn/Hansen8-Dev/Development" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://ipsscm/svn/Hansen8-Dev/Development" />
+      </list>
+    </option>
+  </component>
+</application>

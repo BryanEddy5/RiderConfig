@@ -22,11 +22,11 @@
       </entry>
     </option>
   </component>
-  <component name="TextDiffSettings">
+  <component name="SvnDiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="SPLITTER_PROPORTION" value="0.88877654" />
         </PlaceSettings>
       </entry>
     </option>
